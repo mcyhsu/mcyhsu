@@ -6,7 +6,7 @@ Check out some of my projects below.
 ### [ADUserAccountTools](https://github.com/mcyhsu/ADUserAccountTools)
 **This script lets you create, enable, disable, or remove AD users in bulk.**
 
-Give it a CSV/TXT file by specifying the file path through the parameter or pipeline, and it will return the results of the operation as an array of objects which you can further pipeline.
+Give it a CSV/TXT file containing AD account information by specifying the file path through the parameter or pipeline, and it will return the results of the operation as an array of objects which you can further pipeline.
 
 ### [YTPlaylistBackup-PS](https://github.com/mcyhsu/YTPlaylistBackup-PS)
 **This script backs up YouTube playlist details to CSV files.**
