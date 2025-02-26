@@ -1,12 +1,12 @@
-## Hey, I'm Michael 👋
+## Hey, I'm Michael Hsu! 👋
 Check out some of my projects below.
 
 ## PowerShell Projects
 
 ### [ADUserAccountTools](https://github.com/mcyhsu/ADUserAccountTools)
-**This script lets you create, enable, disable, or remove AD users in bulk.**
+**This script contains cmdlets that help you create, enable, disable, or remove AD user accounts in bulk.**
 
-Give it a CSV/TXT file containing AD account information by specifying the file path through the parameter or pipeline, and it will return the results of the operation as an array of objects which you can further pipeline.
+Use the appropriate cmdlet on a CSV/TXT file containing AD user account information and it will apply that action to all of the specified accounts.
 
 ### [YTPlaylistBackup-PS](https://github.com/mcyhsu/YTPlaylistBackup-PS)
 **This script backs up YouTube playlist details to CSV files.**
