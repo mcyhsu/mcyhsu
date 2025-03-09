@@ -12,7 +12,7 @@ Use the appropriate cmdlet on a CSV/TXT file containing AD user account informat
 
 **This script generates secure, pronounceable passwords that you can actually remember.**
 
-For those of us who can never remember our passwords after mandatory a password reset.
+For those of us who can never remember our passwords after a mandatory password reset.
 
 ### [YTPlaylistBackup-PS](https://github.com/mcyhsu/YTPlaylistBackup-PS)
 **This script backs up YouTube playlist details to CSV files.**
